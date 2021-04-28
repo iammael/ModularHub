@@ -1,0 +1,4 @@
+minecraft:diamond
+minecraft:nether_star
+mysticalagriculture:inferium_essence
+extendedcrafting:black_iron_ingot
