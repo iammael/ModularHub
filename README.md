@@ -1,18 +1,31 @@
-# ModularHub
-ModularHub is an easy to use script for your CC:Tweaked computers.
+# ModularPeripherals - WIP
 
-This repository also serves as a demonstration of the possibilites offered by the Advanced Peripherals.
+**ModularPeripherals** is a light-weight script for your Minecraft computers.
 
-![ModularHub Demo](https://github.com/iammael/ModularHub/raw/main/assets/demo.png)
+This script is built to be **modulable** and **tweakable**. This means that features are meant to be deactivated and or/modified **on the fly** through commands or configuration files.
 
-## Features
-- Dynamically add items/blocks to your GUI using data from RS/AE² systems or other blocks
-- Use and create new custom commands to trigger events (crafts, player inventory) in a user-friendly manner
+This repository also serves as a demo of the possibilites offered by the **CC:Tweaked** and **Advanced Peripherals** mods.
 
-## To Do
+![ModularPeripherals Demo](https://github.com/iammael/ModularPeripherals/raw/main/assets/demo.png)
+
+## Current Features
+* Use and create **custom events** to trigger actions such as:
+    * Autocrafting
+    * Item Transportation (including Player Inventory)
+* Get your items and energy storage displayed on your screen with  **Augmented Reality Glasses**
+* *TBW*
+
+## Planned Features
 - Wireless Networking
+- Item Restocking
+- Fluid Handling
+- Compatibility for other storage blocks
+- "Too long without yielding" Fix
 
 ## Requirements
 - Minecraft Version : 1.16.5
-- [Advanced Peripherals 0.5r](https://www.curseforge.com/minecraft/mc-mods/advanced-peripherals)
 - [cc-tweaked-1.16.4-1.95.3.jar](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked)
+- [Advanced Peripherals 0.5r](https://www.curseforge.com/minecraft/mc-mods/advanced-peripherals)
+
+## Recommanded Mods
+- Refined Storage or Applied Energistics 2

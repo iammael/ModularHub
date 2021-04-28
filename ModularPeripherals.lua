@@ -1,3 +1,15 @@
+--
+-- ModularPeripherals
+--
+-- Version: 0.1a
+--
+-- Description: ModularPeripherals is a light-weight script for your Minecraft computers.
+--
+-- Author: iammael
+--
+-- Source: https://github.com/iammael/ModularPeripherals
+--
+--
 package.path = './lib/?.lua;' .. './src/?.lua;' .. './src/DataHandlers/?.lua;' .. './src/Peripherals/?.lua;' ..
                    './src/Triggers/?.lua;' .. './src/Network/?.lua;' .. package.path
 
